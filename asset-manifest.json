@@ -1,19 +1,20 @@
 {
   "files": {
     "main.css": "/christmasquiz/static/css/main.4fab6b45.css",
-    "main.js": "/christmasquiz/static/js/main.94db88e9.js",
+    "main.js": "/christmasquiz/static/js/main.8f33f94a.js",
     "static/js/787.2ab59ad7.chunk.js": "/christmasquiz/static/js/787.2ab59ad7.chunk.js",
+    "static/media/yah.mp3": "/christmasquiz/static/media/yah.1ec86dd69b33319c23de.mp3",
     "static/media/logoch.png": "/christmasquiz/static/media/logoch.5ce5b7a6ba575585b942.png",
     "static/media/right.mp3": "/christmasquiz/static/media/right.87dbc37d8dad5936f9b8.mp3",
     "static/media/wrong.mp3": "/christmasquiz/static/media/wrong.8b41698e82d1b375145c.mp3",
     "static/media/images.jpg": "/christmasquiz/static/media/images.565503bb360222f11ffa.jpg",
     "index.html": "/christmasquiz/index.html",
     "main.4fab6b45.css.map": "/christmasquiz/static/css/main.4fab6b45.css.map",
-    "main.94db88e9.js.map": "/christmasquiz/static/js/main.94db88e9.js.map",
+    "main.8f33f94a.js.map": "/christmasquiz/static/js/main.8f33f94a.js.map",
     "787.2ab59ad7.chunk.js.map": "/christmasquiz/static/js/787.2ab59ad7.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4fab6b45.css",
-    "static/js/main.94db88e9.js"
+    "static/js/main.8f33f94a.js"
   ]
 }
